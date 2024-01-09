@@ -1,4 +1,4 @@
-I have uploaded project folder under new branch :my-new-branch (please select branch:my-new-branch)
+I have uploaded project folder under new branch on github :my-new-branch (please select branch:my-new-branch)
 For Execution-
 Please import Project Folder
 Under src folder-there are two java clases
